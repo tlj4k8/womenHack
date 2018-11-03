@@ -240,7 +240,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
+  background: url("../images/abstract-art-color-887349.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -256,7 +256,7 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 40px;
+  font-size: 70px;
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -264,10 +264,10 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 5px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
@@ -629,3 +629,4 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
