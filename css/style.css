@@ -290,7 +290,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: rgba(232, 127, 253, 0.3);
+  background: rgba(180, 115, 182, 0.3);
   padding-top: 190px;
 }
 
@@ -317,6 +317,7 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
+  color: black;
 }
 
 #about .about-descr .separator {
