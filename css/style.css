@@ -290,13 +290,13 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: rgba(232, 127, 253, 0.3);
   padding-top: 190px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  
 }
 
 #about .div-img-bg .about-img img {
@@ -306,6 +306,11 @@ nav ul li a {
   margin-left: 40px;
   height: 400px;
   object-fit: cover;
+
+}
+#resource-button {
+  margin-left: 200px;
+  margin-top: 50px;
 }
 
 #about .about-descr .p-heading {
