@@ -149,6 +149,15 @@ $(document).ready(function() {
       }
     });
   };
+  function storySubmit(){
+    var addComment = $('#storyText').val();
+    $('#storySpot').append('<li>' + addComment + '</li>');
+    $('#storyText').val('');
+  }
+
+  $(function() {
+    $('#storySubmit').on('click', storySubmit);
+  });
 
 
   // Call the functions
