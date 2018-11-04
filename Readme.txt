@@ -1,4 +1,5 @@
-This project was created as a learning experience to help guide a team of beginner coders at the UMSL Women's Hackathon using javascript, jquery, bootstrap, and css using git source control. 
+This project was created as a learning experience to help guide a team of beginner coders 
+at the UMSL Women's Hackathon using javascript, jquery, bootstrap, and css using git source control. 
 
 Thanks for downloading this theme!
 
